@@ -1,0 +1,18 @@
+a=25.00
+b="Karthi"
+print(type(a))
+print(type(b))
+
+
+a=input()
+b=int(input())
+print('My name is:',a)
+print('My age is:',b)
+
+
+a=input()
+b=int(input())
+c=input()
+print('My name is:',a)
+print('My age is:',b)
+print("address is:",c)
